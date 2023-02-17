@@ -77,7 +77,7 @@ CTRL+A网页全选，CTRL+C复制，右键点击任务栏v2rayN客户端图标�
 
 
 
-# V2ray/SSR安卓苹果手机/电脑客户端下载
+# V2ray/安卓苹果手机/电脑客户端下载
 最新版V2ray Windows客户端、V2ray安卓客户端、苹果电脑V2ray MacOS客户端和苹果手机V2ray iOS客户端以及V2ray Linux客户端下载链接也一并送上。
 
 ### Windows7/8/10-V2ray WinPC电脑客户端程序下载
