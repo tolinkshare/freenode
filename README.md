@@ -64,9 +64,13 @@ vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIvCfh6jwn4em5Yqg5ou/5aSnIHwgMTAyIHwg6LSf
 vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIvCfh6jwn4em5Yqg5ou/5aSnIHwgMTAzIHwg6LSf6L295LyY5YyWIHwgMXgiLA0KICAiYWRkIjogIm1hcGxlbGVhZjAzLmxpbmt6b29uZXMueHl6IiwNCiAgInBvcnQiOiAiMzA2MTEiLA0KICAiaWQiOiAiNWQ2MzdkYTAtNDYzNi0zZDI5LWI1NWQtNjY5YmFkYjVlMjYyIiwNCiAgImFpZCI6ICIwIiwNCiAgInNjeSI6ICJhdXRvIiwNCiAgIm5ldCI6ICJ0Y3AiLA0KICAidHlwZSI6ICJub25lIiwNCiAgImhvc3QiOiAiY2EwMy50b21vb255Lnh5eiIsDQogICJwYXRoIjogIiIsDQogICJ0bHMiOiAidGxzIiwNCiAgInNuaSI6ICJjYTAzLnRvbW9vbnkueHl6IiwNCiAgImFscG4iOiAiIg0KfQ==
 ```
 
-# 相关工具：
+# 相关工具教程：
 
-
+| 工具 | Android | Windows |
+| ------------- | ------------- | ------------- |
+| v2ray | [v2rayNG](https://github.com/2dust/v2rayNG/releases/download/1.6.28/v2rayNG_1.6.28_arm64-v8a.apk) | [v2rayN](https://github.com/2dust/v2rayN/releases/download/3.27/v2rayN-Core.zip) |
 
 ### 节点导入方法
 CTRL+A网页全选，CTRL+C复制，右键点击任务栏v2rayN客户端图标，左键点击从剪贴板批量导入URL，即可一键导入所有v2ray节点
+
+### v2rayN使用教程： [点击查看](https://github.com/freefq/tutorials)
