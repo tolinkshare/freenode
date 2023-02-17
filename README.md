@@ -90,3 +90,38 @@ CTRL+A网页全选，CTRL+C复制，右键点击任务栏v2rayN客户端图标�
 | V2rayS下载 | [官网下载](https://github.com/Shinlor/V2RayS/releases) | 
 | Mellow下载 | [官网下载](https://github.com/mellow-io/mellow/releases) | 
 | Qv2ray下载 | [官网下载](https://github.com/Qv2ray/Qv2ray) | 
+
+
+### Android/小米MIUI/华为EMUI-V2ray安卓手机客户端Apk程序下载
+
+| 工具 | 下载 |
+| ------------- | ------------- |
+| V2rayNG下载 | [官网下载](https://github.com/2dust/v2rayNG/releases) | 
+| BifrostV下载 | [市场下载](https://www.appsapk.com/downloading/latest/com.github.dawndiy.bifrostv-0.6.8.apk) | 
+| Clash下载 | [官网下载](https://github.com/Kr328/ClashForAndroid/releases) | 
+| Kitsunebi下载 | [市场下载](https://apkpure.com/kitsunebi/fun.kitsunebi.kitsunebi4android) | 
+
+
+### MacOS-V2ray 苹果电脑客户端程序下载
+
+| 工具 | 下载 |
+| ------------- | ------------- |
+| V2rayU下载 | [官网下载](https://github.com/yanue/V2rayU/releases) | 
+| V2rayX下载 | [官网下载](https://github.com/Cenmrev/V2RayX/releases) | 
+| ClashX下载 | [官网下载](https://github.com/yichengchen/clashX/releases) | 
+
+### Linux–V2ray Ubuntu/Centos电脑客户端程序下载
+
+| 工具 | 下载 |
+| ------------- | ------------- |
+| Qv2ray下载 | [官网下载](https://github.com/Qv2ray/Qv2ray) | 
+| Mellow下载 | [官网下载](https://github.com/mellow-io/mellow/releases) | 
+| V2rayL下载 | [官方安装文档](https://github.com/jiangxufeng/v2rayL) | 
+
+### Linux–V2ray Ubuntu/Centos电脑客户端程序下载
+iOS-V2ray苹果手机客户端App程序下载
+
+### ShadowsocksR/SSR客户端下载
+ShadowsocksR简称SSR，还有酸酸乳、粉色小飞机、纸飞机这些可爱的昵称，使用较为广泛。
+
+整理了最新版SSR Windows客户端、SSR安卓客户端、苹果电脑SSR MacOS客户端和苹果手机SSR iOS客户端的下载地址分享给大家。
