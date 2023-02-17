@@ -70,7 +70,23 @@ vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIvCfh6jwn4em5Yqg5ou/5aSnIHwgMTAzIHwg6LSf
 | ------------- | ------------- | ------------- |
 | v2ray | [v2rayNG](https://github.com/2dust/v2rayNG/releases/download/1.6.28/v2rayNG_1.6.28_arm64-v8a.apk) | [v2rayN](https://github.com/2dust/v2rayN/releases/download/3.27/v2rayN-Core.zip) |
 
+### v2rayN使用教程： [点击查看](https://github.com/freefq/tutorials)
+
 ### 节点导入方法
 CTRL+A网页全选，CTRL+C复制，右键点击任务栏v2rayN客户端图标，左键点击从剪贴板批量导入URL，即可一键导入所有v2ray节点
 
-### v2rayN使用教程： [点击查看](https://github.com/freefq/tutorials)
+
+
+# V2ray/SSR安卓苹果手机/电脑客户端下载
+最新版V2ray Windows客户端、V2ray安卓客户端、苹果电脑V2ray MacOS客户端和苹果手机V2ray iOS客户端以及V2ray Linux客户端下载链接也一并送上。
+
+### Windows7/8/10-V2ray WinPC电脑客户端程序下载
+
+| 工具 | 下载 |
+| ------------- | ------------- |
+| V2rayN下载 | [官网下载](https://github.com/2dust/v2rayN/releases) | 
+| V2rayW下载 | [官网下载](https://github.com/Cenmrev/V2RayW/releases) | 
+| Clash下载 | [官网下载](https://github.com/Fndroid/clash_for_windows_pkg/releases) | 
+| V2rayS下载 | [官网下载](https://github.com/Shinlor/V2RayS/releases) | 
+| Mellow下载 | [官网下载](https://github.com/mellow-io/mellow/releases) | 
+| Qv2ray下载 | [官网下载](https://github.com/Qv2ray/Qv2ray) | 
