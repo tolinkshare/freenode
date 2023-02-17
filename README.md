@@ -1,6 +1,5 @@
 >最后更新时间：2023-02-17 01:11:11 星期五
 
-一个纯公益SSR、v2rayN节点分享,平均每24小时更新一次, 无需更新、跑满带宽、更多节点，请自行选择付费机场服务。
 
 
 ![This is an image](https://raw.githubusercontent.com/tolinkshare/freenode/main/tolink.jpg)
