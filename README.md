@@ -28,7 +28,7 @@
 # 免费节点及订阅地址：
 
 
->🚀免费SSR节点列表 
+>🚀免费SSR节点列表  
 ```
 ssr://NDUuOC4xNTguODg6NTk2MjpvcmlnaW46cmM0OnBsYWluOmJHNWpiaTV2Y21jZ2R6ay8_b2Jmc3BhcmFtPSZyZW1hcmtzPTVMLUU1NzJYNXBhdlFRJmdyb3VwPVRHNWpiaTV2Y21j
 ssr://NDUuMTMwLjE0Ny4xODo1OTYyOm9yaWdpbjpyYzQ6cGxhaW46Ykc1amJpNXZjbWNnZHprLz9vYmZzcGFyYW09JnJlbWFya3M9NUwtRTU3Mlg1cGF2UWcmZ3JvdXA9VEc1amJpNXZjbWM
